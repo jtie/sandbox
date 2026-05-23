@@ -1,2 +1,2 @@
 # sandbox
-This repo serves as a sandbox for github related activity
+This repository serves as a sandbox for github related activity
